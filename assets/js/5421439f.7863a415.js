@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkkoltigin_test=self.webpackChunkkoltigin_test||[]).push([[4471],{4469:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);
