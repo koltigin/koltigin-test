@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoltigin_test=self.webpackChunkkoltigin_test||[]).push([[6729],{5063:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/koltigin-test/blog/tags/docusaurus","allTagsPath":"/koltigin-test/blog/tags","count":4,"unlisted":false}')}}]);

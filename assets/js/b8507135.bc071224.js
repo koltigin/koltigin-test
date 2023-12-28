@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkkoltigin_test=self.webpackChunkkoltigin_test||[]).push([[8378],{3170:t=>{t.exports=JSON.parse('{"label":"hola","permalink":"/koltigin-test/blog/tags/hola","allTagsPath":"/koltigin-test/blog/tags","count":1,"unlisted":false}')}}]);
