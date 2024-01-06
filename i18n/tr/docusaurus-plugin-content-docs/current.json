@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Sonraki",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics": {
+    "message": "Eğitim - Temel Bilgiler",
+    "description": "The label for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Basics.link.generated-index.description": {
+    "message": "En önemli Docusaurus kavramlarını öğrenmek için 5 dakika.",
+    "description": "The generated-index page description for category Tutorial - Basics in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Tutorial - Extras": {
+    "message": "Eğitim - Ekstralar",
+    "description": "The label for category Tutorial - Extras in sidebar tutorialSidebar"
+  }
+}
